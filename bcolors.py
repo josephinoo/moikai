@@ -9,4 +9,4 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
-print(bcolors.WARNING + "Warning: No active frommets remain. Continue?" + bcolors.ENDC)
+
